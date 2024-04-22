@@ -1,0 +1,8 @@
+{
+  "name": "com.ink.protobuf",
+  "version": "0.0.1",
+  "displayName": "Ink Protobuf",
+  "description": "protobuf for unity",
+  "unity": "2019.1",
+  "unityRelease": "0b5"
+}
